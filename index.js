@@ -60,7 +60,7 @@ async function run() {
         res.send(result)
       })
 
-      // good short
+      good short
   
       // Get all jobs data count from db
       app.get('/jobs-count', async (req, res) => {
