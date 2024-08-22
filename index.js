@@ -7,7 +7,7 @@ const app = express()
 
 // middleware
 const corsOptions = {
-    origin: ['http://localhost:5173', 'http://localhost:5174', 'https://66c727a385fd07078e7bfc1c--gentle-begonia-358d68.netlify.app'],
+    origin: ['http://localhost:5173', 'http://localhost:5174', 'https://gentle-begonia-358d68.netlify.app'],
     credentials: true,
     optionSuccessStatus: 200,
 }
